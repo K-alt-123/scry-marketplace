@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "scry-marketplace",
+  "description": "Self-hosted Claude Code marketplace for the scry plugin.",
+  "owner": {
+    "name": "Konstantin Klepei"
+  },
+  "plugins": [
+    {
+      "name": "scry",
+      "description": "Project memory for Claude Code: import old chats, recall decisions, and inspect exact local evidence.",
+      "author": {
+        "name": "Konstantin Klepei"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/K-alt-123/scry.git",
+        "sha": "a89d703fc392672716ae821bfa93b7a0d8734c05"
+      },
+      "homepage": "https://github.com/K-alt-123/scry",
+      "license": "MIT",
+      "keywords": ["memory", "recall", "rag", "semantic-search", "context", "claude-code"]
+    }
+  ]
+}
