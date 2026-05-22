@@ -12,12 +12,12 @@
       "author": {
         "name": "Konstantin Klepei"
       },
-      "version": "0.1.28",
+      "version": "0.1.29",
       "category": "memory",
       "source": {
         "source": "url",
         "url": "https://github.com/K-alt-123/scry.git",
-        "sha": "612e79c100403e03ace7bcb6df990ca4117a1d8b"
+        "sha": "615e98dd51ab8a29e7ece842b57075927a364103"
       },
       "homepage": "https://github.com/K-alt-123/scry",
       "license": "MIT",
